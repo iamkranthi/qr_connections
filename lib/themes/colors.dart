@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-Color darkBackgroundColor = colorFromHex('#241e35');
+Color darkBackgroundColor = colorFromHex('#06283D');
 Color darkButtonColor = colorFromHex("#0cf4e3");
-Color darkText = colorFromHex("#f8f9f8");
 
+//#47B5FF
 
 //*function without using a class:-
 
